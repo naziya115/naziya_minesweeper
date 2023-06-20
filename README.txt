@@ -1,4 +1,4 @@
-I created Minesweeper using Java in Intellij idea
+I created Minesweeper using Java
 how to play the game:
 
 - left button for opening the boxes
